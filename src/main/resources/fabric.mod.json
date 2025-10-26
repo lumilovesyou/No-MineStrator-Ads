@@ -3,27 +3,22 @@
 	"id": "no-minestrator-ads",
 	"version": "${version}",
 	"name": "No MineStrator Ads",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Removes ads from MineStrator on both client and server",
 	"authors": [
-		"Me!"
+		"LumiLovesYou"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/lumilovesyou/No-MineStrator-Ads"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/no-minestrator-ads/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
 			"com.lumi.nmsa.NoMineStratorAds"
-		],
-		"client": [
-			"com.lumi.nmsa.NoMineStratorAdsClient"
 		]
 	},
 	"mixins": [
-		"no-minestrator-ads.mixins.json",
 		{
 			"config": "no-minestrator-ads.client.mixins.json",
 			"environment": "client"
@@ -34,8 +29,5 @@
 		"minecraft": "~1.21.10",
 		"java": ">=21",
 		"fabric-api": "*"
-	},
-	"suggests": {
-		"another-mod": "*"
 	}
 }

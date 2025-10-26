@@ -3,7 +3,7 @@
 	"package": "com.lumi.nmsa.mixin.client",
 	"compatibilityLevel": "JAVA_21",
 	"client": [
-		"ExampleClientMixin"
+		"ChatMessageMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
