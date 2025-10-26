@@ -4,7 +4,7 @@
 
 # No MineStrator Ads
 
-*Get rid of those pesky ads!*
+*Blocks ads from free MineStrator servers*
 
 Blocks tellraw commands that contain `MineStrator`, `FlexCore™`, `MyBoxFree`, `SmartBackup™`, and `MineStrator.com`
 </center></div>
