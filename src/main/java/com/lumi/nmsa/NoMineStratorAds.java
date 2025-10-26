@@ -27,7 +27,7 @@ public class NoMineStratorAds implements ModInitializer {
                 .executes((context) -> {
                     int i = 0;
                     String input = TextArgumentType.parseTextArgument(context, "message", context.getSource().getPlayer()).toString();
-                    if (!input.contains("https://minestrator.com") && !input.contains("MineStrator") &&  !input.contains("FlexCore") && !input.contains("MyBoxFree")) {
+                    if (!input.contains("MineStrator") && !input.contains("FlexCore™") &&  !input.contains("MyBoxFree") && !input.contains("SmartBackup™") && !input.contains("MineStrator.com")) {
 
                     for(ServerPlayerEntity serverPlayerEntity : EntityArgumentType.getPlayers(context, "targets")) {
                         serverPlayerEntity.sendMessageToClient(TextArgumentType.parseTextArgument(context, "message", serverPlayerEntity), false);
