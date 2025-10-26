@@ -6,7 +6,7 @@
 
 *Get rid of those pesky ads!*
 
-Blocks tellraw commands that contain `MineStrator`, `FlexCore™`, `MyBoxFree`, `SmartBackup™`, `MineStrator.com`
+Blocks tellraw commands that contain `MineStrator`, `FlexCore™`, `MyBoxFree`, `SmartBackup™`, and `MineStrator.com`
 </center></div>
 
 ## How to use
