@@ -1,6 +1,6 @@
 <div align="center"><center>
 
-<img src="https://raw.githubusercontent.com/lumilovesyou/No-MineStrator-Ads/refs/heads/main/src/main/resources/assets/no-minestrator-ads/icon.png" style="border-radius: 10px;">
+<img src="https://raw.githubusercontent.com/lumilovesyou/No-MineStrator-Ads/refs/heads/main/src/main/resources/assets/no-minestrator-ads/icon.png" style="border-radius: 10px;" alt="Minestrator logo with red no symbol across it">
 
 # No MineStrator Ads
 
